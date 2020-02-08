@@ -1,0 +1,10 @@
+C:\Users\lucas\Desktop\Estudos\C#\EstudoSQLServer\EstudoSQLServer\bin\Debug\EstudoSQLServer.exe.config
+C:\Users\lucas\Desktop\Estudos\C#\EstudoSQLServer\EstudoSQLServer\bin\Debug\EstudoSQLServer.exe
+C:\Users\lucas\Desktop\Estudos\C#\EstudoSQLServer\EstudoSQLServer\bin\Debug\EstudoSQLServer.pdb
+C:\Users\lucas\Desktop\Estudos\C#\EstudoSQLServer\EstudoSQLServer\obj\Debug\EstudoSQLServer.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Estudos\C#\EstudoSQLServer\EstudoSQLServer\obj\Debug\EstudoSQLServer.Form1.resources
+C:\Users\lucas\Desktop\Estudos\C#\EstudoSQLServer\EstudoSQLServer\obj\Debug\EstudoSQLServer.Properties.Resources.resources
+C:\Users\lucas\Desktop\Estudos\C#\EstudoSQLServer\EstudoSQLServer\obj\Debug\EstudoSQLServer.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Estudos\C#\EstudoSQLServer\EstudoSQLServer\obj\Debug\EstudoSQLServer.exe
+C:\Users\lucas\Desktop\Estudos\C#\EstudoSQLServer\EstudoSQLServer\obj\Debug\EstudoSQLServer.pdb
+C:\Users\lucas\Desktop\Estudos\C#\EstudoSQLServer\EstudoSQLServer\obj\Debug\EstudoSQLServer.frmAdicionar.resources
